@@ -1,2 +1,2 @@
 # _plugins/jekyll-slim.rb
-require 'jekyll-slim'
+# require 'jekyll-slim'

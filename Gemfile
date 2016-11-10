@@ -23,5 +23,5 @@ group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
 end
 
-gem 'jekyll-slim'
-gem 'slim', github: 'slim-template/slim'
+# gem 'jekyll-slim'
+# gem 'slim', github: 'slim-template/slim'
