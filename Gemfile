@@ -21,6 +21,10 @@ gem "minima", "~> 2.0"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
+   gem 'guard'
+   gem 'rb-readline'
+   gem 'guard-jekyll-plus'
+   gem 'guard-livereload'
 end
 
 # gem 'jekyll-slim'
